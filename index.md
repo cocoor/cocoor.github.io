@@ -74,7 +74,7 @@
 
 > * 1、TextView
 >
->   > 我们使用android:gravity来指定文字的对齐方式，可选值有top、bottom、left、right、center等，可以用"\|"来同时指定多个值，指定center效果等同于center_vertical|center_horizontal,表示文字在垂直和水平方向都居中对齐。
+>   > 我们使用android:"gravity"来指定文字的对齐方式，可选值有top、bottom、left、right、center等，可以用"\|"来同时指定多个值，指定center效果等同于center_vertical|center_horizontal,表示文字在垂直和水平方向都居中对齐。
 >   >
 >   > 通过android：textSize属性指定文字的大小，通过android：textColor属性可以指定文字的颜色，在android中文字字体大小用sp作为单位。
 
