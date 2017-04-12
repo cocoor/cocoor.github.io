@@ -10,7 +10,7 @@
 
 3. 3、在活动中使用Menu：
 
-   &ensp&ensp public boolean onCreateOptionsMenu(Menu menu){
+      public boolean onCreateOptionsMenu(Menu menu){
 
 ​      	      		getMenuInflater().inflate();
 
